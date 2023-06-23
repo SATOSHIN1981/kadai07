@@ -1,0 +1,27 @@
+{
+    "user_id": null,
+    "name": null,
+    "email": null,
+    "responses": [
+        {
+            "question": "好きな食べ物は？",
+            "answer": "すし"
+        },
+        {
+            "question": "好きな服の系統は？",
+            "answer": "ちゃ"
+        },
+        {
+            "question": "好きな芸能人は？",
+            "answer": "きき"
+        },
+        {
+            "question": "好きな街は？",
+            "answer": "あお"
+        },
+        {
+            "question": "好きな季節は？",
+            "answer": "あき"
+        }
+    ]
+}
